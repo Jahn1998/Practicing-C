@@ -59,8 +59,18 @@ int main(){
    
      */
     a=create();
-    b=create();
-    pt=Ndelet(a,b);
+    b=a;
+    int i=0;
+    while(b!=NULL){
+        i++;
+        ;
+    }
+    int num[i]={-1};
+    printf("%d",num[i]){
+        
+    }
+    //b=create();
+    //pt=Ndelet(a,b);
     //print(pt);
     //printf("hello");
 }
